@@ -1,4 +1,4 @@
-<h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>, I'm Sai Charan</h1>
+<h1 align="center">Hi, I'm Sai Charan</h1>
 I am Sai Charan a passionate full stack web developer, pursuing Btech in Computer Science and Engineering at IIIT Manipur (2020-2024)
 
 
